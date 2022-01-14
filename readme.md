@@ -9,11 +9,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
-</p>              
-
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/Klebervini49/klebervini49.github.io/main/assets/img/img-project/javascript/desenho.png" height='350px'  alt='Imagem do projeto'>
-</h1>
+</p>
 
 ## 🚀 Tecnologias
 
